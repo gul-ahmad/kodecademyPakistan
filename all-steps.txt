@@ -1,0 +1,31 @@
+1-Installed laravel
+
+2-setup db connection
+
+3- setup the auth scalfolding using composer require laravel/ui
+
+>>>run migration +then bootstrap scalfolding for frontend php artisan ui bootstrap 
+
+4-Vue is installed using
+php artisan ui vue   
+5-Installed Vue -Router for rotuing purpose in Vue
+npm install vue-router
+
+
+6-Settled the routers links
+
+7-For Vue Validation use vform    https://github.com/cretueusebiu/vform   npm install axios vform
+
+8-Progress bar is used to the show the form  progress while submit
+npm install vue-progressbar
+
+
+9-Used sweetalert for alerts npm install sweetalert2
+
+
+
+Client ID: 1
+Client secret: xsB2dY7GobSLv743WfJVxnmz7g2R2GTKyrnmaJWa
+Password grant client created successfully.
+Client ID: 2
+Client secret: 1NSykdfLDU5umE6
